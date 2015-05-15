@@ -1,5 +1,7 @@
 # mysql-client
 
+[![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/arey/mysql-client/) 
+
 Docker image with a MySQL client.
 
 This Docker image is based on Alpine Linux .
