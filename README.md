@@ -1,9 +1,13 @@
 # mysql-client
 
 Docker image with a MySQL client.
+
 This Docker image is based on Alpine Linux .
+
 Virtual size : 30.91 MB
+
 From image: gliderlabs/alpine:3.1
+
 Mysql client: 5.5.43-r1
 
 ## Usage
