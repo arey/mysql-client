@@ -6,11 +6,11 @@ Docker image with a MySQL client.
 
 This Docker image is based on Alpine Linux .
 
-Virtual size : 30.91 MB
+Virtual size : 36.5 MB
 
 From image: gliderlabs/alpine:3.1
 
-Mysql client: 5.5.43-r1
+Mysql client: Ver 15.1 Distrib 10.1.26-MariaDB
 
 ## Usage
 
